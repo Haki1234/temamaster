@@ -1,0 +1,153 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Pastrimi i plazhit",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "10:00",
+      "location": "Velipojë",
+      "description": "Pastrimi i plazhit.",
+      "organizer": "Haki Farka",
+      "category": "Natyrë",
+      "attendees": "Haki Farka \nEdi Klejdi \n Beni Star \n Meri Bani"
+    },
+    {
+      "id": 2,
+      "title": "Pastrimi i parkut",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "12:00",
+      "location": "Parku i Madh i Liqenit Artificial të Tiranës",
+      "description": "Pastrimi i parkut.",
+      "organizer": "Haki Farka",
+      "category": "Natyrë",
+      "attendees": "Haki Farka \nEdi Klejdi "
+    },
+    {
+      "id": 3,
+      "title": "Dita e adoptimit të kafshëve",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "12:00",
+      "location": "Tiranë",
+      "description": "Të ndihmojmë kafshët të gjejnë një shtëpi të re.",
+      "organizer": "Haki Farka",
+      "category": "Kafshë shtëpiake",
+      "attendees": "Haki Farka \nEdi Klejdi "
+    },
+    {
+      "id": 4,
+      "title": "Party",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "10:00",
+      "location": "Dhërmi",
+      "description": "Lojra , argëtim, etj.",
+      "organizer": "Haki Farka",
+      "category": "Të tjera",
+      "attendees": "Haki Farka \nEdi Klejdi "
+    },
+    {
+      "id": 5,
+      "title": "Mbledhje",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "12:00",
+      "location": "Zyrë",
+      "description": "Takim.",
+      "organizer": "Haki Farka",
+      "category": "Puna 1",
+      "attendees": "Haki Farka \nEdi Klejdi "
+    },
+    {
+      "id": 6,
+      "title": "Mbledhje",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "12:00",
+      "location": "Zyrë",
+      "description": "Takim.",
+      "organizer": "Haki Farka",
+      "category": "Puna 2",
+      "attendees": "Haki Farka \nEdi Klejdi "
+    },
+    {
+      "id": 7,
+      "title": "Yoga",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "10:00",
+      "location": "Shtëpi",
+      "description": "Relaks. Tëmbajmë trupin në formë.",
+      "organizer": "Haki Farka",
+      "category": "palestër",
+      "attendees": "Haki Farka \nEdi Klejdi "
+    },
+    {
+      "id": 1759960,
+      "user": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "category": "Edukim",
+      "organizer": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "title": "Prezantim",
+      "description": "Shpresojm te dalim mire ",
+      "location": "UBT",
+      "date": "2020-05-06T17:07:00.000Z",
+      "time": "19:00",
+      "attendees": "Haki Farka \nEdi Klejdi "
+    },
+    {
+      "id": 5396479,
+      "user": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "category": "Edukim",
+      "organizer": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "title": "Prezantim Haki",
+      "description": "TEma diplomes",
+      "location": "Shkolle",
+      "date": "2020-06-12T09:15:00.000Z",
+      "time": "6:00",
+      "attendees": "Haki \nstaf "
+    },
+    {
+      "id": 8025651,
+      "user": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "category": "Kafshë shtëpiake",
+      "organizer": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "title": "Edi",
+      "description": "Argetim me kafshet shtepiake",
+      "location": "Shpi",
+      "date": "2020-06-04T22:26:00.000Z",
+      "time": "17:00",
+      "attendees": "Haki \nEdi"
+    },
+    {
+      "id": 4321232,
+      "user": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "category": "Puna 1",
+      "organizer": {
+        "id": "abc123",
+        "name": "Haki Farka"
+      },
+      "title": "test",
+      "description": "test",
+      "location": "test",
+      "date": "2020-06-19T20:26:00.000Z",
+      "time": "3:00",
+      "attendees": "testste\ntes\ntes\net\n"
+    }
+  ]
+}
